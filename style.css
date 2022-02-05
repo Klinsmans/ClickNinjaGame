@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    width: 90vw;
+    height: 90vh;
+    margin: 0;
+}
+
+#btn-play {
+    text-transform: uppercase;
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+}
